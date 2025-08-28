@@ -4,3 +4,4 @@
 
 - #header
 - #main_picture
+- #icon_title_text
