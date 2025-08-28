@@ -3,3 +3,4 @@
 ### Quest Solution
 
 - #header
+- #main_picture
