@@ -12,3 +12,4 @@
 #### About Page
 - #top
 - #box_all
+- #footer
